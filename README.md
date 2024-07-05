@@ -11,14 +11,11 @@ verifica se a publickey_x e publickey_y são iguais a address, mas ainda falta a
 Está retornando a publickey_x e publickey_y para testar a velocidade e esse é o resultado em 60 segundos buscando no range 66:
 
 Resumo:
-
 Tempo:  60.04217338562012
-
 Velocidade: 1848700.5673013178 haves por segundo
-
 Chaves buscadas:  111000000
-
 Ultima chave tentada:  00000000000000000000000000000000000000000000000200000000069db9bf
+
 
 
 INSTALAÇÃO
