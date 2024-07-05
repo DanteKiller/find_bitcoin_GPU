@@ -22,6 +22,8 @@ Ultima chave tentada:  000000000000000000000000000000000000000000000002000000000
 
 
 
+
+
 INSTALAÇÃO
 
 clonar o projeto com o comando:
