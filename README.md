@@ -5,10 +5,10 @@ Está em desenvolvimento.
 Caso queira ajudar, o arquivo kernel.py é onde fica o código que é processado pela GPU
 A linguagem utilizada no código do kernel é OpenCL C
 
-Lá tem a função find_bitcoins onde ele pega o array de private_keys e de addresses e converte em publickey_x e publickey_y de uma forma bem básica usando a curva secp256k1
-verifica se a publickey_x e publickey_y são iguais a address, mas ainda falta alguns ajustes, pois a conversão para publickey ainda não está certo
-Mas esse código ja é um inicio para executar o código usando a GPU
-está retornando a publickey_x e publickey_y para testar a velocidade e esse é o resultado em 60 segundos buscando no range 66
+Lá tem a função find_bitcoins, onde ele pega o array de private_keys e de addresses e converte em publickey_x e publickey_y de uma forma bem básica usando a curva secp256k1,
+verifica se a publickey_x e publickey_y são iguais a address, mas ainda falta alguns ajustes, pois a conversão para publickey ainda não está certo, mas esse código ja é um inicio para executar o código usando a GPU.
+
+Está retornando a publickey_x e publickey_y para testar a velocidade e esse é o resultado em 60 segundos buscando no range 66:
 
 Resumo:
 Tempo:  60.04217338562012
